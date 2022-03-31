@@ -6,7 +6,7 @@ I'm currently working on my own Home-automation project where I try to learn mys
 
 <p align="center">
 <a href='https://go.dev/'>
-<img go align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 20px;" width="68px" height="68px" src="/img/go.png" /> 
+<img go align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 20px;" width="68px" height="68px" src="https://juststickers.in/wp-content/uploads/2016/07/go-programming-language.pngng" /> 
 </a>
 <a href='https://www.python.org/'>
 <img python align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 20px;" width="68px"  height="68px" src="/img/python.webp" />
