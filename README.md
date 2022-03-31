@@ -45,10 +45,10 @@ I'm currently working on my own Home-automation project where I try to learn mys
 <img ble align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://www.vhv.rs/dpng/d/52-524995_bluetooth-png-transparent-png.png" />
 </a>
 <a href='https://www.linux.org/'>
-<img linux align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://e7.pngegg.com/pngimages/513/3/png-clipart-ubuntu-snappy-installation-canonical-package-format-no-1-text-trademark.png" />
+<img linux align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="/img/ubuntu.png" />
 </a>
 <a href='https://en.wikipedia.org/wiki/Internet_of_things'>
-<img iot align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://p7.hiclipart.com/preview/1019/163/672/computer-icons-share-icon-iot-icon-thumbnail.jpg" />
+<img iot align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="/img/iot.svg" />
 </a>
 <a href='https://en.wikipedia.org/wiki/CI/CD'>
 <img cicd align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://e7.pngegg.com/pngimages/464/659/png-clipart-devops-computer-icons-agile-software-development-others-miscellaneous-text-thumbnail.png" />
