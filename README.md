@@ -39,7 +39,7 @@ I'm currently working on my own Home-automation project where I try to learn mys
 <img zephyr align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="/img/zephyr.png" />
 </a>
 <a href='https://openthread.io/'>
-<img thread align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/WIDE%20-%20Black%20on%20Transparent.png" />
+<img thread align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="/img/thread.png" />
 </a>
 <a href='https://www.bluetooth.com/learn-about-bluetooth/recent-enhancements/mesh/'>
 <img ble align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://www.vhv.rs/dpng/d/52-524995_bluetooth-png-transparent-png.png" />
