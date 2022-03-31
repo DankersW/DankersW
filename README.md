@@ -42,7 +42,7 @@ I'm currently working on my own Home-automation project where I try to learn mys
 <img thread align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="/img/thread.png" />
 </a>
 <a href='https://www.bluetooth.com/learn-about-bluetooth/recent-enhancements/mesh/'>
-<img ble align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://www.vhv.rs/dpng/d/52-524995_bluetooth-png-transparent-png.png" />
+<img ble align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="/img/ble.png" />
 </a>
 <a href='https://www.linux.org/'>
 <img linux align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="/img/ubuntu.png" />
@@ -51,6 +51,6 @@ I'm currently working on my own Home-automation project where I try to learn mys
 <img iot align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="/img/iot.svg" />
 </a>
 <a href='https://en.wikipedia.org/wiki/CI/CD'>
-<img cicd align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://e7.pngegg.com/pngimages/464/659/png-clipart-devops-computer-icons-agile-software-development-others-miscellaneous-text-thumbnail.png" />
+<img cicd align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="/img/cicd.webp" />
 </a>
 </p>
