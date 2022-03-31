@@ -36,7 +36,7 @@ I'm currently working on my own Home-automation project where I try to learn mys
 <img git align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 </a>
 <a href='https://www.zephyrproject.org/'>
-<img zephyr align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://spng.subpng.com/20181119/xeq/kisspng-logo-brand-product-line-angle-zephyr-logo-bing-images-5bf2599adb8b34.3971200215426093068993.jpg" />
+<img zephyr align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="/img/zephyr.png" />
 </a>
 <a href='https://openthread.io/'>
 <img thread align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/WIDE%20-%20Black%20on%20Transparent.png" />
