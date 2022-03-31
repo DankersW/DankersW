@@ -21,7 +21,7 @@ I'm currently working on my own Home-automation project where I try to learn mys
 <img grpc align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://www.drupal.org/files/project-images/rain-drop-hi.png" />
 </a>
 <a href='https://kafka.apache.org/'>
-<img kafka align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://spng.subpng.com/20190517/bpf/kisspng-apache-kafka-apache-software-foundation-computer-s-connectivity-svg-png-icon-free-download-465-6-5cdf21d96db9f2.5376810915581270654495.jpg" />
+<img kafka align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/TALL%20-%20Black%20on%20Transparent.png" />
 </a>
 <a href='https://kafka.apache.org/'>
 <img docker align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP" />
