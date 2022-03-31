@@ -15,7 +15,7 @@ I'm currently working on my own Home-automation project where I try to learn mys
 <img cpp align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 </a>
 <a href='https://en.wikipedia.org/wiki/C_(programming_language)'>
-<img c align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9CCSxdhaaHOPQwAuL3roRkTqVS_Zmw_08iHCzW9ctofjUJPEj1F45jvenxtQxPvxdfb4&usqp=CAU" />
+<img c align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 </a>
 <a href='https://grpc.io/'>
 <img grpc align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://www.drupal.org/files/project-images/rain-drop-hi.png" />
