@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi
 
-I'm currently working on my own Home-automation project where I try to learn myself new languages, software development techniques, and design patterns.
+I'm currently not working on any personal projects.
 
 ## My tech-stack
 
